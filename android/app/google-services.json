@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "392722625197",
+    "project_id": "emergency-app-fa693",
+    "storage_bucket": "emergency-app-fa693.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392722625197:android:471b4749445366eede0c24",
+        "android_client_info": {
+          "package_name": "com.egcoding.sieteemergencia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392722625197-t7dejigmi19rv6j37kef1ck1ecmlbjqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzW67_Jk-9o8VHg9GhOclyH6sq8Zplv58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392722625197-t7dejigmi19rv6j37kef1ck1ecmlbjqc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "392722625197-alrs5dmn7g992lgsq6ktgnaqbgoje88l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.egcoding.sieteemergencia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
